@@ -3,7 +3,7 @@ Excel spreadsheet to simulate probability experiments and calculate probabilitie
 
 ## Task 1: Simulating Coin Tosses
 
-Write a program to simulate tossing a coin 100 times, count the number of heads and tails, and plot the results.
+Simulate tossing a coin 100 times, count the number of heads and tails, and plot the results.
 
 ## Task 2: Rolling a Die
 
